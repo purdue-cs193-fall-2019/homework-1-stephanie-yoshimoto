@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Stephanie Yoshimoto's First CS193 Homework
 
 ### Markdown
 
@@ -15,8 +11,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+## Some of my favorite things about CS 193:
+
+- No exams or midterms!
+- Minimal meeting times per week
+- I'll learn tools to help me in my future as a programmer
 
 1. Numbered
 2. List
